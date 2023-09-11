@@ -1,0 +1,38 @@
+[
+  {
+    "cover": "assets/ac-cover.jpg",
+    "label": "Exclusive",
+    "type": "PS3",
+    "price": "R$ 97,50"
+  },
+  {
+    "cover": "assets/bt-1.jpg",
+    "label": "Cross Buy",
+    "type": "Full Game | PS3 | PS4 | PS Vita",
+    "price": "R$ 123,45"
+  },
+  {
+    "cover": "assets/bt-4.jpg",
+    "label": "Digital",
+    "type": "PS4 | PS4",
+    "price": "R$ 168,20"
+  },
+  {
+    "cover": "assets/bt-5.jpg",
+    "label": "VR",
+    "type": "PS5 | PS VR",
+    "price": "R$ 299,90"
+  },
+  {
+    "cover": "assets/bt-bad-company-2.jpg",
+    "type": "PS5",
+    "label": "",
+    "price": "R$ 421,30"
+  },
+  {
+    "cover": "assets/bt-hardline.jpg",
+    "label": "Exlusive",
+    "type": "PS4 | PS5",
+    "price": "R$ 154,90"
+  }
+]
